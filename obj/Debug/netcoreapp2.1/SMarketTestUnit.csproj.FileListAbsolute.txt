@@ -1,0 +1,17 @@
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\SMarketTestUnit.deps.json
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\SMarketTestUnit.runtimeconfig.json
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\SMarketTestUnit.runtimeconfig.dev.json
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\SMarketTestUnit.dll
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\SMarketAPI.dll
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\SMarketAPI.pdb
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\obj\Debug\netcoreapp2.1\SMarketTestUnit.csprojAssemblyReference.cache
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\obj\Debug\netcoreapp2.1\SMarketTestUnit.csproj.CoreCompileInputs.cache
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\obj\Debug\netcoreapp2.1\SMarketTestUnit.AssemblyInfoInputs.cache
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\obj\Debug\netcoreapp2.1\SMarketTestUnit.AssemblyInfo.cs
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\obj\Debug\netcoreapp2.1\SMarketTestUnit.csproj.CopyComplete
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\bin\Debug\netcoreapp2.1\SMarketTestUnit.pdb
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\obj\Debug\netcoreapp2.1\SMarketTestUnit.dll
+Z:\INFOR ARCH\PrimeraPractica\SMarketAPI\SMarketTestUnit\obj\Debug\netcoreapp2.1\SMarketTestUnit.pdb
